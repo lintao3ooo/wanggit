@@ -11,9 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //zaijia 分支 222
-        
-        //git户不
-     //上修改的。。。。。。
+        //as 上修改的
+        //git上修改的
 
     }
 }
