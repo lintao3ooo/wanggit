@@ -24,6 +24,8 @@ public abstract class BaseChatActivity extends Activity {
         setContentView(R.layout.activity_chat);
         //chat chat
 
+        //2222分支
+
         contentTextView= (TextView) findViewById(R.id.content_text);
         input= (EditText) findViewById(R.id.input_edittext);
         sendBt = (Button) findViewById(R.id.send_button);
