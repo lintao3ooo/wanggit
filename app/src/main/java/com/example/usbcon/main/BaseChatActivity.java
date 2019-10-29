@@ -22,6 +22,7 @@ public abstract class BaseChatActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chat);
+        //chat chat
 
         contentTextView= (TextView) findViewById(R.id.content_text);
         input= (EditText) findViewById(R.id.input_edittext);
