@@ -24,7 +24,7 @@ public abstract class BaseChatActivity extends Activity {
         setContentView(R.layout.activity_chat);
         //chat chat
 
-        //2222分支
+        //2222分支nnn    再加的分支/。。。
 
         contentTextView= (TextView) findViewById(R.id.content_text);
         input= (EditText) findViewById(R.id.input_edittext);
